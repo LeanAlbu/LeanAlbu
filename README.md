@@ -15,3 +15,8 @@
 ├── HE/HIM - BRAZILIAN - (PT/BR + ENGLISH)
 ├── Computer Sciente student
 └── ---
+
+### **/OS**
+```plaintext
+├── LINUX (MAIN)
+│   └── UBUNTU_V24.04-LTS
