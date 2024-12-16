@@ -4,7 +4,7 @@
        <img src="https://github.com/Ludwig46692/Ludwig46692/blob/main/apollo-god-sun-background_jn77m.png" alt="Angel" style="width: 200%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
-      <p style="font-family: monospace; font-size: 16px;">
+      <p style="font-family: monospace; font-size: 17px;">
   
 </p>
 
@@ -13,7 +13,8 @@
     ├── /𝐁𝐈𝐎
     │    ├── ʙʀᴀᴢɪʟɪᴀɴ - (ᴘᴛ/ʙʀ + ᴇɴɢʟɪꜱʜ)
     │    ├── Computer Sciente Student at Universidade Federal do Tocantins - UFT
-    │    └── Back-end lover <3
+    │    │── Back-end lover <3    
+    │    └── CLI's are god's best creations!!!
     │
     ├── /𝐎𝐒
     │    ├── /ʟɪɴᴜx (ᴍᴀɪɴ)
@@ -21,24 +22,15 @@
     │    └── /ᴡɪɴᴅᴏᴡꜱ
     │        └── /Wᴡɪɴᴅᴏᴡꜱ_𝟣𝟣
     │            
-    │
     ├── /𝐒𝐓𝐀𝐂𝐊
     │    ├── C.c
     │    ├── ɢᴏʟᴀɴɢ.ɢᴏ
     │    ├── ʟᴜᴀ.ʟᴜᴀ
-    │    └──Java.java
+    │    └── Java.java
     │
-    └── /𝐈𝐃𝐄𝐬
-        ├── ɴᴇᴏᴠɪᴍ (ᴍᴀɪɴ)
-        ├── ᴠꜱᴄᴏᴅᴇ
-        ├── InteliJ IDEA
-  
-        
-
-
-
-
-
-
-                                                                                                          
-                                                                                                          
+    ├── /𝐈𝐃𝐄𝐬
+    │   ├── ɴᴇᴏᴠɪᴍ (ᴍᴀɪɴ)
+    │   ├── ᴠꜱᴄᴏᴅᴇ
+    │   └── InteliJ IDEA
+    │
+    └── /THAT'S ALL FOLKS
