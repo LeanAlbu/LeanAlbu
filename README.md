@@ -1,22 +1,27 @@
 <!-- README.md -->
 
-<h1 align="center"> Lean Albuquerque </h1>
+<h1>Lean Albuquerque</h1>
 
-<p align="center">
-  <img src="https://data.moonscdn.com/prompt/slices/3/watermarked/apollo-god-sun-background_jn77m.png" width="300px" alt="Salve Apolo">
-</p>
+<div style="display: flex; align-items: left;">
+  <img src="https://data.moonscdn.com/prompt/slices/3/watermarked/apollo-god-sun-background_jn77m.png" width="200px" alt="Salve Apolo" style="margin-right: 20px;"/>
+  
+  <div>
+    ## **ABOUT ME**
 
----
+    ### **/BIO**
+    ```plaintext
+    ├── HE/HIM - BRAZILIAN - (PT/BR + ENGLISH)
+    ├── COMPUTER SCIENCE STUDENT
+    └── ---
+    ```
 
-## **ABOUT ME**
-
-### **/BIO**
-```plaintext
-├── HE/HIM - BRAZILIAN - (PT/BR + ENGLISH)
-├── Computer Sciente student
-└── ---
-
-### **/OS**
-```plaintext
-├── LINUX (MAIN)
-│   └── UBUNTU_V24.04-LTS
+    ### **/OS**
+    ```plaintext
+    ├── LINUX (MAIN)
+    │   └── UBUNTU_V24.04-LTS
+    ├── WINDOWS
+    │   └── WINDOWS_11
+    └── WSL-UBUNTU_V18.03-LTS
+    ```
+  </div>
+</div>
