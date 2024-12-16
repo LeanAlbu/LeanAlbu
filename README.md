@@ -1,32 +1,23 @@
-<!-- README.md -->
+# Lean Albuquerque
 
-<h1>Lean Albuquerque</h1>
+## Sobre Mim
+Computer Science Student at Universidade Federal do Tocantins (UFT)
 
-<div style="display: flex; align-items: center;">
-  <!-- Imagem à esquerda -->
-  <img src="https://data.moonscdn.com/prompt/slices/3/watermarked/apollo-god-sun-background_jn77m.png" 
-       alt="Salve Apolo" 
-       width="150px" 
-       style="margin-right: 20px;">
+**Bio**: 
+Back-end lover, currently investing time in GOLANG
 
-  <!-- Texto à direita -->
-  <div>
-    <h2>ABOUT ME</h2>
+**OS**: 
+Arch-Linux with Hyprland
 
-    <h3>/BIO</h3>
-    <pre>
-├── HE/HIM - BRAZILIAN - (PT/BR + ENGLISH)
-├── COMPUTER SCIENCE STUDENT
-└── ---
-    </pre>
-
-    <h3>/OS</h3>
-    <pre>
-├── LINUX (MAIN)
-│   └── UBUNTU_V24.04-LTS
-├── WINDOWS
-│   └── WINDOWS_11
-└── WSL-UBUNTU_V18.03-LTS
-    </pre>
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <!-- Conteúdo da coluna esquerda -->
+    ![Imagem de Perfil](https://data.moonscdn.com/prompt/slices/3/watermarked/apollo-god-sun-background_jn77m.png)
+  </div>
+  <div style="flex: 1;">
+    <!-- Conteúdo da coluna direita -->
+    - **Contato**: 
+      - 📧 Email: leandealbuquerque@gmail.com
+      - 🌐 LinkedIn: [Lean Albuquerque](www.linkedin.com/in/lean-albuquerque-a047ba215)
   </div>
 </div>
