@@ -22,8 +22,8 @@
     │        └── /Wɪɴᴅᴏᴡꜱ_𝟣𝟣
     │            
     ├── /𝐒𝐓𝐀𝐂𝐊
-    │    ├── Java.java
-    │    ├── Rust.rs 
+    │    ├── Golang.go
+    │    ├── Python.py 
     │    └── Clang.c
     │
     ├── /𝐈𝐃𝐄𝐬
