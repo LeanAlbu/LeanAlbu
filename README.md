@@ -11,24 +11,24 @@
     /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
     │
     ├── /𝐁𝐈𝐎
-    │    ├── ʙʀᴀᴢɪʟɪᴀɴ - (ᴘᴛ/ʙʀ + ᴇɴɢʟɪꜱʜ)
-    │    ├── Computer Sciente Student at Universidade Federal do Tocantins - UFT
-    │    └── Back-end lover <3    
+    │   ├── ʙʀᴀᴢɪʟɪᴀɴ - (ᴘᴛ/ʙʀ + ᴇɴɢʟɪꜱʜ)
+    │   ├── CS Undergrad @ UFT
+    │   └── Software Dev Intern @ PROAP
     │
-    ├── /𝐎𝐒
-    │    ├── /ʟɪɴᴜx (ᴍᴀɪɴ)
-    │    │   └── ARCH-LINUX
-    │    └── /ᴡɪɴᴅᴏᴡꜱ
-    │        └── /Wɪɴᴅᴏᴡꜱ_𝟣𝟣
-    │            
-    ├── /𝐒𝐓𝐀𝐂𝐊
-    │    ├── Golang.go
-    │    ├── Python.py 
-    │    └── Clang.c
+    ├── /𝐄𝐗𝐏𝐄𝐑𝐓𝐈𝐒𝐄
+    │   ├── /ʙᴀᴄᴋᴇɴᴅ
+    │   │   ├── Golang
+    │   │   ├── Java (Spring Boot)
+    │   │   └── Python (FastAPI)
+    │   └── /ɪɴꜰʀᴀ_&_ꜱᴇᴄᴜʀɪᴛʏ
+    │       ├── Arch Linux & Neovim
+    │       └── PostgreSQL & AWS
     │
-    ├── /𝐈𝐃𝐄𝐬
-    │   ├── ɴᴇᴏᴠɪᴍ (ᴍᴀɪɴ)
-    │   ├── ᴠꜱᴄᴏᴅᴇ
-    │   └── InteliJ IDEA
+    ├── /𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
+    │   ├── BICentral (Full-stack BI)
+    │   └── Sentinel (Anti-Abuse API)
+    │
+    ├── /𝐑𝐄𝐒𝐄𝐀𝐑𝐂𝐇
+    │   └── LLMs for Cyberattack Identification
     │
     └── /THAT'S ALL FOLKS
