@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-      <img align="left" height="380" src="https://github.com/LeanAlbu/Ludwig46692/raw/main/GmmRfsqaEAMQME5.jpg" alt="Angel" />
+      <img align="left" height="500" src="https://github.com/LeanAlbu/LeanAlbu/blob/main/hermes.jpg" alt="Hermes" />
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 17px;">
